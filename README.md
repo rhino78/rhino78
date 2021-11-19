@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/rhino78?label=Follow&style=social)](https://github.com/rhino78)
 
-I ❤ Open Source. I love [NeoVim](https://neovim.io/) and [Python](https://www.python.org/)!
+I love [NeoVim](https://neovim.io/) and [Python](https://www.python.org/)!
 
 * Long-time Austin Native
 * [Austin FC ](https://www.austinfc.com/)
