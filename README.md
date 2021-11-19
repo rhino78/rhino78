@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @rhino78
-- 👀 I’m interested in getting involved in open source projects
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on python projects
-- 📫 https://rhino78.github.io/
+### Hey 👋, I'm rhino78
 
-<!---
-rhino78/rhino78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Github](https://img.shields.io/github/followers/rhino78?label=Follow&style=social)](https://github.com/rhino78)
+
+I ❤ Open Source. I love [NeoVim](https://neovim.io/).
+
+* Long-time Austin Native
+* [Austin FC ](https://www.austinfc.com/)
+* Passionate Linux User
+* Long time [Raspberry Pi](https://www.raspberrypi.org/) tinkerer
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhino78&hide=html)
+![mattn's github stats](https://github-readme-stats.vercel.app/api?username=rhino78&show_icons=true&count_private=true&line_height=40)
