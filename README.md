@@ -2,7 +2,8 @@
 
 [![Github](https://img.shields.io/github/followers/rhino78?label=Follow&style=social)](https://github.com/rhino78)
 
-I love [NeoVim](https://neovim.io/) and [Python](https://www.python.org/)!
+I am writing [NeoVim](https://neovim.io/) and [Python](https://www.python.org/)
+Altough my day job is using C++ and C#
 
 * Long-time Austin Native
 * [Austin FC ](https://www.austinfc.com/)
