@@ -13,4 +13,3 @@ Altough my day job is using C++ and C#
 * Long time [Raspberry Pi](https://www.raspberrypi.org/) tinkerer
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhino78&hide=QML)
-![rhino78's github stats](https://github-readme-stats.vercel.app/api?username=rhino78&show_icons=true&count_private=true&line_height=40)
