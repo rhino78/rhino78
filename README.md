@@ -3,7 +3,8 @@
 [![Github](https://img.shields.io/github/followers/rhino78?label=Follow&style=social)](https://github.com/rhino78)
 
 I am currently learning [Rust!](https://www.rust-lang.org/)
-buy me a [coffee] if you like my work(https://www.buymeacoffee.com/rshaver)
+
+Buy me a [coffee] if you like my work(https://www.buymeacoffee.com/rshaver)
 
 Altough my day job is using C++ and C#
 
