@@ -4,14 +4,12 @@
 
 I am currently learning [Rust!](https://www.rust-lang.org/)
 
-Buy me a [coffee](https://www.buymeacoffee.com/rshaver) if you like my work
-
-Altough my day job is using C++ and C#
-
 * Long-time Austin Native
 * [Austin FC ](https://www.austinfc.com/)
 * Passionate Linux User
 * Huge Neovim nerd
-* Long time [Raspberry Pi](https://www.raspberrypi.org/) tinkerer
+* [Raspberry Pi](https://www.raspberrypi.org/) tinkerer
+
+Buy me a [coffee](https://www.buymeacoffee.com/rshaver) if you like my work
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhino78&hide=QML)
