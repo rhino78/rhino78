@@ -4,7 +4,7 @@
 
 I am currently learning [Rust!](https://www.rust-lang.org/)
 
-Buy me a [coffee] if you like my work(https://www.buymeacoffee.com/rshaver)
+Buy me a [coffee](https://www.buymeacoffee.com/rshaver) if you like my work
 
 Altough my day job is using C++ and C#
 
